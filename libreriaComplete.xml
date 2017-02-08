@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libros>
+    <libro publicado_en="2001">
+        <titulo>La sombra del viento</titulo>
+        <autor>Carlos Ruíz Zafón</autor>
+    </libro>
+    <libro publicado_en="2010">
+        <titulo>El violín del diablo</titulo>
+        <autor>Joseph Gelinek</autor>
+    </libro>
+    <libro publicado_en="2003">
+        <titulo>Zombi - Guía de supervivencia</titulo>
+        <autor>Max Brooks</autor>
+    </libro>
+    <libro publicado_en="1969">
+        <titulo>El padrino</titulo>
+        <autor>Mario Puzo</autor>
+    </libro>
+</libros>
